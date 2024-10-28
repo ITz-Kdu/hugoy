@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Atrasos-do-hug-o/static/css/main.1b6eeb9f.css",
-    "main.js": "/Atrasos-do-hug-o/static/js/main.5ab149e1.js",
-    "static/media/download (1).jpeg": "/Atrasos-do-hug-o/static/media/download (1).764259bd3038fe16330e.jpeg",
-    "index.html": "/Atrasos-do-hug-o/index.html",
-    "main.1b6eeb9f.css.map": "/Atrasos-do-hug-o/static/css/main.1b6eeb9f.css.map",
-    "main.5ab149e1.js.map": "/Atrasos-do-hug-o/static/js/main.5ab149e1.js.map"
+    "main.css": "/hugoy/static/css/main.f508aecf.css",
+    "main.js": "/hugoy/static/js/main.5ab149e1.js",
+    "static/media/download (1).jpeg": "/hugoy/static/media/download (1).764259bd3038fe16330e.jpeg",
+    "index.html": "/hugoy/index.html",
+    "main.f508aecf.css.map": "/hugoy/static/css/main.f508aecf.css.map",
+    "main.5ab149e1.js.map": "/hugoy/static/js/main.5ab149e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b6eeb9f.css",
+    "static/css/main.f508aecf.css",
     "static/js/main.5ab149e1.js"
   ]
 }
